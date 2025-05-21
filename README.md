@@ -1,4 +1,4 @@
 # assign1git
 John Poley
 First comment
-testbranch change
+This is a change on newbranch - testbranch change (combined to resolve conflict)
